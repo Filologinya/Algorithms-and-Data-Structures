@@ -1,2 +1,3 @@
-# SolvingLeetcode
-My Leetcode Solutions 
+# Algorithms-and-Data-Structures
+
+My solutions
